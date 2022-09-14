@@ -1,6 +1,12 @@
-.mainpt{
+.mainpt {
      background-color: rgb(29, 12, 126);
 }
 .title{
      font-family: 'Combo', cursive;
+}
+.bottom{
+     background-color: rgb(29, 12, 126);
+}
+.bline{
+     color: black;
 }
